@@ -1,0 +1,47 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    font-size: 50px;
+    margin: 0 auto;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#display {
+    grid-area: display;
+    text-align: center;
+    font-size: 100px;
+    padding: 50px;
+    font-weight: 700;
+}
+#plus {
+
+}
+#minus {
+    
+}
+#number {
+    text-align: center;
+    width: 200px;
+    height: 75px;
+    border: 5px solid lightgrey;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+button {
+    margin: 10px;
+    height: 75px;
+    width: 75px;
+    font-size: 50px;
+    color: white;
+    background-color: lightgrey;
+    border: 1px solid lightgrey;
+    border-radius: 25%;
+}
+button:hover {
+    color: lightgrey;
+    background-color: white;
+}
