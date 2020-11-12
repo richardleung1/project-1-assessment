@@ -3,7 +3,7 @@
 [Instructions](<https://github.com/SEI-ATL/project-1-assessment>)
 
 # Installation
-[Github page](https://richardleung1.github.io/GA_Assessment_1)
+[Github page](https://richardleung1.github.io/project-1-assessment/)
 
 For local development:
 1. `fork` and `clone` repo
